@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hernantorres23/mikel/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/hernantorres23/mikel/static/js/main.0085dfeb.chunk.js",
+    "main.js.map": "/hernantorres23/mikel/static/js/main.0085dfeb.chunk.js.map",
+    "runtime-main.js": "/hernantorres23/mikel/static/js/runtime-main.c57ed75a.js",
+    "runtime-main.js.map": "/hernantorres23/mikel/static/js/runtime-main.c57ed75a.js.map",
+    "static/js/2.2efd59ce.chunk.js": "/hernantorres23/mikel/static/js/2.2efd59ce.chunk.js",
+    "static/js/2.2efd59ce.chunk.js.map": "/hernantorres23/mikel/static/js/2.2efd59ce.chunk.js.map",
+    "static/js/3.f8b9c887.chunk.js": "/hernantorres23/mikel/static/js/3.f8b9c887.chunk.js",
+    "static/js/3.f8b9c887.chunk.js.map": "/hernantorres23/mikel/static/js/3.f8b9c887.chunk.js.map",
+    "index.html": "/hernantorres23/mikel/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/hernantorres23/mikel/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.2efd59ce.chunk.js.LICENSE.txt": "/hernantorres23/mikel/static/js/2.2efd59ce.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hernantorres23/mikel/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c57ed75a.js",
+    "static/js/2.2efd59ce.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.0085dfeb.chunk.js"
+  ]
+}
